@@ -26,12 +26,12 @@ This project implements a function in C that calculates and returns the average,
 Compile the project using the following command:
 
 ```bash
-gcc -Iinclude .\\src\\array_analysis.c .\\src\\main.c -o array_analysis
+gcc -Iinclude .\src\array_analysis.c .\src\main.c -o array_analysis
 ```
 
 ### Execution
 ```bash
-.\\array_analysis
+.\array_analysis
 ```
 Follow the on-screen instructions to either manually enter the array values or generate a random array.
 
